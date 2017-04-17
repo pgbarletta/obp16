@@ -1,0 +1,8 @@
+	Son 6 structuras de OBP, 3 wild-type y 3 mutadas. Tambien  tienen
+distintos ligandos: ninguno, eugenol y citralva. 
+	Los inputs son iguales p/ todas y los scripts p/ largar tienen los headers
+armados p/ gator, no se si a vos te sirven asi. Estan p/ correr 700ns, los rst7
+q te mando ya tienen, minimo, 100ns de corrida.
+	Tambien hay 1 script p/ largar los 6 scripts de una.
+
+Gracias!	
